@@ -5,7 +5,7 @@
  % 2) Define the problem completely using a MATLAB script. See
  %    http://www.mathworks.com/help/pde/examples/index.html for examples
  %    of this approach.
-
+ % run with matlab 2016 a
 
 % Geometry description:
 polesNumber                 =   6;      %Number of poles
